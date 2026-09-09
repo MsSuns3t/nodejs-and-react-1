@@ -1,4 +1,4 @@
-# Introductory assignment 1.0 
+# NodeJS and React Module assignment 1
 
 ## How to start
 Run "npm start" in a terminal from the root map.
